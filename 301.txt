@@ -1,0 +1,9 @@
+== RandomUsername (Nikola Jovanovic) ==
+== Project Euler ==
+== 301 ==
+
+- (n, 2n, 3n) is a losing state if and only if n xor (2*n) xor (3*n) = 0
+- it can be proven that the solution is equal to the 32th Fibonacci number
+  (we analyze individual bits and establish a recurrence relation Fn = Fn-1 + Fn-2)
+
+= 2178309

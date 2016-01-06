@@ -1,0 +1,5 @@
+== RandomUsername (Nikola Jovanovic) ==
+== Project Euler ==
+== 011 ==
+
+Spotted it manually: 87*97*94*89 = 70600674

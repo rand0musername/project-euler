@@ -1,0 +1,17 @@
+== RandomUsername (Nikola Jovanovic) ==
+== Project Euler ==
+== 017 ==
+
+Pen and paper method:
+
+    1-9 = 36
+    10 = 3
+    11 - 19 = 67
+    20 - 90 = 46
+    hundred and = 10
+    one thousand = 11
+
+toNinetyNine = 36 + 3 + 67 + 8*36 + 10*46 = 854
+
+all = 854 + 9 * 854 + 99 * 9 * 10 + 99 * 36 + 11 + 36 + 7*9 = 21124
+

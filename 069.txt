@@ -1,0 +1,7 @@
+== RandomUsername (Nikola Jovanovic) ==
+== Project Euler ==
+== 069 ==
+
+Pen&paper:
+2*3*5*... largest number under 1M
+= 510510

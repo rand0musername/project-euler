@@ -1,0 +1,6 @@
+== RandomUsername (Nikola Jovanovic) ==
+== Project Euler ==
+== 015 ==
+
+40 turns, 20 right + 20 down
+=> solution = c(40, 20) = 137846528820

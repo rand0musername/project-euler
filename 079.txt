@@ -1,0 +1,10 @@
+== RandomUsername (Nikola Jovanovic) ==
+== Project Euler ==
+== 079 ==
+
+Pen and paper:
+
+- let's first assume there are no duplicate digits in the password
+- 0 is always last so let's assume it's actually last and ignore it from now on = 0
+- 9 is always last so let's assume it's actually last and ignore it from now on = 90
+- same logic repeated a few times => 73162890

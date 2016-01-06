@@ -1,5 +1,4 @@
 # project-euler
 - My solutions for Project Euler problems (https://projecteuler.net/)
-- Mostly written in C++, occasionally Java
+- Mostly written in C++, occasionally Java, Python and Haskell
 - My handle: **RandomUsername**, currently taking a larger break
-- I expect to update this repository by the end of this year

@@ -1,3 +1,7 @@
+# RandomUsername (Nikola Jovanovic)
+# Project Euler
+# 074
+
 fact = [1, 1, 2, 6, 24, 120, 720, 5040, 40320, 362880]
 
 def sum(n):
